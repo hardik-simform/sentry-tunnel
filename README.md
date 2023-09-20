@@ -26,8 +26,7 @@ A tunnel is an HTTP endpoint that acts as a proxy between Sentry and your applic
 
 ### Clone the repository ⎘
 ```bash
-git clone https://github.com/hardik-simform/sentry-tunnel-using-node.git
-
+git clone https://github.com/hardik-simform/sentry-tunnel.git
 ```
 
 ### Change the working directory 📂
